@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /crbatista
+
+spring:
+  cloud:
+    config:
+      uri: https://config-service:8080

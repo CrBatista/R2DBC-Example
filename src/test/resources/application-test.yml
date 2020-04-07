@@ -1,0 +1,14 @@
+spring:
+  database:
+    username: sa
+    password:
+    url: mem:AZ;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
+    encoding: UTF-8
+    location: db/test/migrations
+    table: flyway_schema_history
+    placeholderReplacement: true
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+  cloud:
+    config:
+      enabled: false
