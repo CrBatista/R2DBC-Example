@@ -30,7 +30,7 @@
         <r2dbc.pool.version>0.8.2.RELEASE</r2dbc.pool.version>
         <flyway.version>6.3.2</flyway.version>
         <apache.commons3.version>3.10</apache.commons3.version>
-        <postgre.version>42.3.3</postgre.version>
+        <postgre.version>42.3.7</postgre.version>
 
         <!-- Testing Properties -->
         <r2dbc.h2.version>0.8.1.RELEASE</r2dbc.h2.version>
