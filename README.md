@@ -24,5 +24,5 @@ mvn spring-boot:run
 This project is possible because of the next developers:
 
 <ul>
-    <li>:pouting_man: Cristian Batista Herrera <i>cristianbatista@outlook.es</i></li>
+    <li>:pouting_man: Cristian Batista Herrera <i>batistaherreracristian@gmail.com</i></li>
 </ul>
